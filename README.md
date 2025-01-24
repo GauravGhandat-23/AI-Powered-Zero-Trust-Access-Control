@@ -90,11 +90,11 @@ To run the project locally, follow the steps below:
 ## Model Details 🧠
 - The machine learning model is based on Logistic Regression and is trained to predict the trust_level (either trusted or untrusted) based on the following features:
 
-- **user**
-- **device**
-- **location**
-- **activity**
-- **risk_score**
+  - **user**
+  - **device**
+  - **location**
+  - **activity**
+  - **risk_score**
 
 - The model is trained and tested using the dataset, and predictions are made by entering real-time user data via the Streamlit interface.
 
