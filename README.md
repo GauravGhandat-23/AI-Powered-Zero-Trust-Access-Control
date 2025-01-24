@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/40f9e8c7-122d-488f-bfe5-36fc21ff50fd)
 
-[![Logo](https://img.shields.io/badge/AI%20Powered%20Zero%2DTrust%20Access%20Control-blue?style=flat-square)]
+[![Logo](https://img.shields.io/badge/AI%20Powered%20Zero%2DTrust%20Access%20Control-blue?style=flat-square)](https://ai-powered-zero-trust-access-control-jkduzc6ennjgf98hdyr44y.streamlit.app/)
 
 ## ![Overview](https://img.shields.io/badge/Overview-📖-blue?style=for-the-badge)
 
