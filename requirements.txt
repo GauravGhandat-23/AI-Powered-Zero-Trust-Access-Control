@@ -1,3 +1,5 @@
 streamlit 
 pandas 
 scikit-learn
+groq
+python-dotenv
